@@ -1,3 +1,3 @@
-const APIUrl = "http://localhost:3001";
+const APIUrl = "https://waynestb-blog-backend.herokuapp.com";
 
 export default APIUrl;
